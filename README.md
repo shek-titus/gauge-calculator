@@ -5,7 +5,7 @@ A simple Flask web app that computes total stitches, rows, and estimated yarn ya
 ## 🚀 Features
 
 - **Gauge Calculation**: Calculates total stitches and rows from your stitches-per-inch and rows-per-inch.
-- **Yardage Estimation**: Estimates how many yards of yarn you’ll need, based on a measured swatch.
+- **Yardage Estimation**: Estimates how many yards of yarn you’ll need, based on the weight of your swatch.
 - **Web UI**: User-friendly form input and results pages built with Flask and HTML templates.
 - **Responsive Styling**: Basic CSS for a clean, centered layout.
 
