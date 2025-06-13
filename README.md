@@ -20,7 +20,7 @@ A simple Flask web app that computes total stitches, rows, and estimated yarn ya
 1. **Clone the repo**  
    ```bash
    git clone https://github.com/shek-titus/gauge-calculator.git
-   cd YOUR_REPO
+   cd gauge-calculator
    ```
 
 2. **Create and activate a virtual environment**  
